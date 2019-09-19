@@ -12,6 +12,7 @@ TypeScript sample
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/ts_1
 
 ***
 
